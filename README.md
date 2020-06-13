@@ -18,4 +18,4 @@ docker run -d -p 8080:8080 --name mavenbuild mavenbuild
 
 Inline commands of Maven in config
 
-to test wrong shell
+to test correct shell
