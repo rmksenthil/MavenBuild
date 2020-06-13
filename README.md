@@ -16,4 +16,4 @@ Use below command to run the container
 
 docker run -d -p 8080:8080 --name mavenbuild mavenbuild
 
-after Maven in config
+Inline commands of Maven in config
